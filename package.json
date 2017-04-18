@@ -1,0 +1,27 @@
+{
+  "name": "clarifai_test",
+  "version": "1.0.0",
+  "description": "Test the clarifai image recognition API",
+  "main": "clarifai.js",
+  "dependencies": {
+    "clarifai": "^2.1.5",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darchangel/clarifai-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Filipe Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darchangel/clarifai-test/issues"
+  },
+  "homepage": "https://github.com/Darchangel/clarifai-test#readme"
+}
